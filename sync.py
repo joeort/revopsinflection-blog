@@ -97,8 +97,9 @@ def write_post(date_str, slug, title, url, markdown_content):
     filename = f"{date_str}-{slug}.md"
     filepath = BLOG_DIR / filename
 
+    escaped_title = title.replace('"', '\\"')
     frontmatter = f"""---
-title: "{title.replace('"', '\\"')}"
+title: "{escaped_title}"
 date: {date_str}
 url: {url}
 ---
