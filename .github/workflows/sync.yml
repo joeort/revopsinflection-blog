@@ -1,4 +1,5 @@
 name: Sync Substack Posts
+concurrency: substack-sync
 
 on:
   schedule:
