@@ -18,7 +18,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install html2text python-dateutil
+        run: pip install html2text python-dateutil requests
 
       - name: Run sync script
         run: python sync.py

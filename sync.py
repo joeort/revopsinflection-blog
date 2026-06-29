@@ -12,12 +12,12 @@ import os
 import re
 from datetime import datetime
 from pathlib import Path
-from urllib.request import urlopen, Request
 
 try:
     import html2text
+    import requests
 except ImportError:
-    print("ERROR: html2text not installed. Run: pip install html2text python-dateutil")
+    print("ERROR: Required packages not installed. Run: pip install html2text python-dateutil requests")
     exit(1)
 
 FEED_URL = "https://revopsinflection.substack.com/feed"
@@ -37,12 +37,11 @@ def fetch_feed():
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "Accept": "application/rss+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.5",
-        "Accept-Encoding": "gzip, deflate",
         "Referer": "https://revopsinflection.substack.com/",
     }
-    req = Request(FEED_URL, headers=headers)
-    with urlopen(req) as response:
-        return response.read().decode("utf-8")
+    response = requests.get(FEED_URL, headers=headers, timeout=10)
+    response.raise_for_status()
+    return response.text
 
 def parse_feed(xml_text):
     """Parse RSS feed and return list of posts."""
