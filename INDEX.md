@@ -2,9 +2,13 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_35 posts · last updated 2026-06-29_
+_36 posts · last updated 2026-06-29_
 
 ---
+
+
+## [Enterprise Value's Hidden Workhorse: Why the Company ID is Your Most Critical Revenue Driver](https://revopsinflection.substack.com/p/enterprise-values-hidden-workhorse)
+_2026-07-02_ · [`2026-07-02-enterprise-values-hidden-workhorse.md`](./2026-07-02-enterprise-values-hidden-workhorse.md)
 
 ## [How Effective BDR Teams Are Measured](https://revopsinflection.substack.com/p/how-effective-bdr-teams-are-measured)
 _2026-06-26_ · [`2026-06-26-how-effective-bdr-teams-are-measured.md`](./2026-06-26-how-effective-bdr-teams-are-measured.md)
