@@ -2,10 +2,14 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_36 posts · last updated 2026-06-29_
+_37 posts · last updated 2026-06-29_
 
 ---
 
+
+
+## [The Renewal Blind Spot: Why Most SaaS Companies Can't See Churn Coming Until It's Too Late](https://revopsinflection.substack.com/p/the-renewal-blind-spot-why-most-saas)
+_2026-07-10_ · [`2026-07-10-the-renewal-blind-spot-why-most-saas.md`](./2026-07-10-the-renewal-blind-spot-why-most-saas.md)
 
 ## [Enterprise Value's Hidden Workhorse: Why the Company ID is Your Most Critical Revenue Driver](https://revopsinflection.substack.com/p/enterprise-values-hidden-workhorse)
 _2026-07-02_ · [`2026-07-02-enterprise-values-hidden-workhorse.md`](./2026-07-02-enterprise-values-hidden-workhorse.md)
