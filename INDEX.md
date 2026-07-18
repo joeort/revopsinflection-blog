@@ -2,11 +2,15 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_37 posts · last updated 2026-06-29_
+_38 posts · last updated 2026-06-29_
 
 ---
 
 
+
+
+## [The Pipeline X-Ray: How to Stop Chasing the Ghost of "4x Coverage"](https://revopsinflection.substack.com/p/the-pipeline-x-ray-how-to-stop-chasing)
+_2026-07-17_ · [`2026-07-17-the-pipeline-x-ray-how-to-stop-chasing.md`](./2026-07-17-the-pipeline-x-ray-how-to-stop-chasing.md)
 
 ## [The Renewal Blind Spot: Why Most SaaS Companies Can't See Churn Coming Until It's Too Late](https://revopsinflection.substack.com/p/the-renewal-blind-spot-why-most-saas)
 _2026-07-10_ · [`2026-07-10-the-renewal-blind-spot-why-most-saas.md`](./2026-07-10-the-renewal-blind-spot-why-most-saas.md)
