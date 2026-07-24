@@ -2,12 +2,16 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_38 posts · last updated 2026-06-29_
+_39 posts · last updated 2026-06-29_
 
 ---
 
 
 
+
+
+## [The Sales AI Capability Matrix](https://revopsinflection.substack.com/p/the-sales-ai-capability-matrix)
+_2026-07-24_ · [`2026-07-24-the-sales-ai-capability-matrix.md`](./2026-07-24-the-sales-ai-capability-matrix.md)
 
 ## [The Pipeline X-Ray: How to Stop Chasing the Ghost of "4x Coverage"](https://revopsinflection.substack.com/p/the-pipeline-x-ray-how-to-stop-chasing)
 _2026-07-17_ · [`2026-07-17-the-pipeline-x-ray-how-to-stop-chasing.md`](./2026-07-17-the-pipeline-x-ray-how-to-stop-chasing.md)
