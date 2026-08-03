@@ -20,6 +20,14 @@ jobs:
       - name: Install dependencies
         run: pip install html2text python-dateutil requests
 
+      - name: Diagnose feed access
+        continue-on-error: true
+        run: |
+          curl -sv -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36" \
+            "https://revopsinflection.substack.com/feed" -o /tmp/feed_response.txt -w "\nHTTP_STATUS:%{http_code}\n" 2>&1 | tail -50
+          echo "--- Body preview ---"
+          head -c 800 /tmp/feed_response.txt
+
       - name: Run sync script
         run: python sync.py
 
