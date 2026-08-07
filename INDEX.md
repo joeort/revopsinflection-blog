@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_40 posts · last updated 2026-06-29_
+_41 posts · last updated 2026-06-29_
 
 ---
 
@@ -10,6 +10,10 @@ _40 posts · last updated 2026-06-29_
 
 
 
+
+
+## [Stop Setting Your Ramping Sellers Up to Fail](https://revopsinflection.substack.com/p/stop-setting-your-ramping-sellers)
+_2026-08-07_ · [`2026-08-07-stop-setting-your-ramping-sellers.md`](./2026-08-07-stop-setting-your-ramping-sellers.md)
 
 ## [The 3-Step AI Implementation Blueprint to Reclaim 10 Hours per Rep, per Week](https://revopsinflection.substack.com/p/the-3-step-ai-implementation-blueprint)
 _2026-07-31_ · [`2026-07-31-the-3-step-ai-implementation-blueprint.md`](./2026-07-31-the-3-step-ai-implementation-blueprint.md)
