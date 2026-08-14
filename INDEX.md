@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_41 posts · last updated 2026-06-29_
+_42 posts · last updated 2026-06-29_
 
 ---
 
@@ -11,6 +11,10 @@ _41 posts · last updated 2026-06-29_
 
 
 
+
+
+## [The 30-Day SaaS Revenue Engine Audit: The Playbook for Rapid Value Creation](https://revopsinflection.substack.com/p/the-30-day-saas-revenue-engine-audit)
+_2026-08-14_ · [`2026-08-14-the-30-day-saas-revenue-engine-audit.md`](./2026-08-14-the-30-day-saas-revenue-engine-audit.md)
 
 ## [Stop Setting Your Ramping Sellers Up to Fail](https://revopsinflection.substack.com/p/stop-setting-your-ramping-sellers)
 _2026-08-07_ · [`2026-08-07-stop-setting-your-ramping-sellers.md`](./2026-08-07-stop-setting-your-ramping-sellers.md)
