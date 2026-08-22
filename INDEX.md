@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_42 posts · last updated 2026-06-29_
+_43 posts · last updated 2026-06-29_
 
 ---
 
@@ -12,6 +12,10 @@ _42 posts · last updated 2026-06-29_
 
 
 
+
+
+## [RevOps is Not a Helpdesk](https://revopsinflection.substack.com/p/revops-is-not-a-helpdesk)
+_2026-08-21_ · [`2026-08-21-revops-is-not-a-helpdesk.md`](./2026-08-21-revops-is-not-a-helpdesk.md)
 
 ## [The 30-Day SaaS Revenue Engine Audit: The Playbook for Rapid Value Creation](https://revopsinflection.substack.com/p/the-30-day-saas-revenue-engine-audit)
 _2026-08-14_ · [`2026-08-14-the-30-day-saas-revenue-engine-audit.md`](./2026-08-14-the-30-day-saas-revenue-engine-audit.md)
