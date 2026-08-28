@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_43 posts · last updated 2026-06-29_
+_44 posts · last updated 2026-06-29_
 
 ---
 
@@ -13,6 +13,10 @@ _43 posts · last updated 2026-06-29_
 
 
 
+
+
+## [The Vertical SaaS Double-Edged Sword: High Moats, Hard Ceilings](https://revopsinflection.substack.com/p/the-vertical-saas-double-edged-sword)
+_2026-08-28_ · [`2026-08-28-the-vertical-saas-double-edged-sword.md`](./2026-08-28-the-vertical-saas-double-edged-sword.md)
 
 ## [RevOps is Not a Helpdesk](https://revopsinflection.substack.com/p/revops-is-not-a-helpdesk)
 _2026-08-21_ · [`2026-08-21-revops-is-not-a-helpdesk.md`](./2026-08-21-revops-is-not-a-helpdesk.md)
