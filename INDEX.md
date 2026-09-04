@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_44 posts · last updated 2026-06-29_
+_45 posts · last updated 2026-06-29_
 
 ---
 
@@ -14,6 +14,10 @@ _44 posts · last updated 2026-06-29_
 
 
 
+
+
+## [Cohort progression: why a 6 month sales cycle doesn’t mean every deal closes in 6 months](https://revopsinflection.substack.com/p/cohort-progression-why-a-6-month)
+_2026-09-04_ · [`2026-09-04-cohort-progression-why-a-6-month.md`](./2026-09-04-cohort-progression-why-a-6-month.md)
 
 ## [The Vertical SaaS Double-Edged Sword: High Moats, Hard Ceilings](https://revopsinflection.substack.com/p/the-vertical-saas-double-edged-sword)
 _2026-08-28_ · [`2026-08-28-the-vertical-saas-double-edged-sword.md`](./2026-08-28-the-vertical-saas-double-edged-sword.md)
