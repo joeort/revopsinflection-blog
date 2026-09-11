@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_45 posts · last updated 2026-06-29_
+_46 posts · last updated 2026-06-29_
 
 ---
 
@@ -15,6 +15,10 @@ _45 posts · last updated 2026-06-29_
 
 
 
+
+
+## [How Misalignment Destroys EBITDA: RevOps’ Role in GTM Alignment](https://revopsinflection.substack.com/p/how-misalignment-destroys-ebitda)
+_2026-09-11_ · [`2026-09-11-how-misalignment-destroys-ebitda.md`](./2026-09-11-how-misalignment-destroys-ebitda.md)
 
 ## [Cohort progression: why a 6 month sales cycle doesn’t mean every deal closes in 6 months](https://revopsinflection.substack.com/p/cohort-progression-why-a-6-month)
 _2026-09-04_ · [`2026-09-04-cohort-progression-why-a-6-month.md`](./2026-09-04-cohort-progression-why-a-6-month.md)
