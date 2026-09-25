@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_47 posts · last updated 2026-06-29_
+_48 posts · last updated 2026-06-29_
 
 ---
 
@@ -17,6 +17,10 @@ _47 posts · last updated 2026-06-29_
 
 
 
+
+
+## [Can Any Company Stand Up a Data Warehouse?](https://revopsinflection.substack.com/p/can-any-company-stand-up-a-data-warehouse)
+_2026-09-25_ · [`2026-09-25-can-any-company-stand-up-a-data-warehouse.md`](./2026-09-25-can-any-company-stand-up-a-data-warehouse.md)
 
 ## [Should Your AEs Own Expansion?](https://revopsinflection.substack.com/p/should-your-aes-own-expansion)
 _2026-09-18_ · [`2026-09-18-should-your-aes-own-expansion.md`](./2026-09-18-should-your-aes-own-expansion.md)
