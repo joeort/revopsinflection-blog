@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_48 posts · last updated 2026-06-29_
+_49 posts · last updated 2026-06-29_
 
 ---
 
@@ -18,6 +18,10 @@ _48 posts · last updated 2026-06-29_
 
 
 
+
+
+## [Why Your Dashboards Disagree](https://revopsinflection.substack.com/p/why-your-dashboards-disagree)
+_2026-10-02_ · [`2026-10-02-why-your-dashboards-disagree.md`](./2026-10-02-why-your-dashboards-disagree.md)
 
 ## [Can Any Company Stand Up a Data Warehouse?](https://revopsinflection.substack.com/p/can-any-company-stand-up-a-data-warehouse)
 _2026-09-25_ · [`2026-09-25-can-any-company-stand-up-a-data-warehouse.md`](./2026-09-25-can-any-company-stand-up-a-data-warehouse.md)
