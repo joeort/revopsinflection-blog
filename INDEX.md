@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_50 posts · last updated 2026-06-29_
+_51 posts · last updated 2026-06-29_
 
 ---
 
@@ -20,6 +20,10 @@ _50 posts · last updated 2026-06-29_
 
 
 
+
+
+## [Your Expansion Number Is Borrowed From Old New Logos](https://revopsinflection.substack.com/p/your-expansion-number-is-borrowed)
+_2026-10-16_ · [`2026-10-16-your-expansion-number-is-borrowed.md`](./2026-10-16-your-expansion-number-is-borrowed.md)
 
 ## [The Evolution of RevOps from $0 to $100M+](https://revopsinflection.substack.com/p/the-evolution-of-revops-from-0-to)
 _2026-10-09_ · [`2026-10-09-the-evolution-of-revops-from-0-to.md`](./2026-10-09-the-evolution-of-revops-from-0-to.md)
