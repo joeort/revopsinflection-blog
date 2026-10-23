@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_51 posts · last updated 2026-06-29_
+_52 posts · last updated 2026-06-29_
 
 ---
 
@@ -21,6 +21,10 @@ _51 posts · last updated 2026-06-29_
 
 
 
+
+
+## [Source, Yield, Seasonality: Build Your 2027 Pipeline Model From Bookings Back](https://revopsinflection.substack.com/p/source-yield-seasonality-build-your)
+_2026-10-23_ · [`2026-10-23-source-yield-seasonality-build-your.md`](./2026-10-23-source-yield-seasonality-build-your.md)
 
 ## [Your Expansion Number Is Borrowed From Old New Logos](https://revopsinflection.substack.com/p/your-expansion-number-is-borrowed)
 _2026-10-16_ · [`2026-10-16-your-expansion-number-is-borrowed.md`](./2026-10-16-your-expansion-number-is-borrowed.md)
