@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_52 posts · last updated 2026-06-29_
+_53 posts · last updated 2026-06-29_
 
 ---
 
@@ -22,6 +22,10 @@ _52 posts · last updated 2026-06-29_
 
 
 
+
+
+## [Downgrades, Swaps, and the Classification You Never Built](https://revopsinflection.substack.com/p/downgrades-swaps-and-the-classification)
+_2026-10-30_ · [`2026-10-30-downgrades-swaps-and-the-classification.md`](./2026-10-30-downgrades-swaps-and-the-classification.md)
 
 ## [Source, Yield, Seasonality: Build Your 2027 Pipeline Model From Bookings Back](https://revopsinflection.substack.com/p/source-yield-seasonality-build-your)
 _2026-10-23_ · [`2026-10-23-source-yield-seasonality-build-your.md`](./2026-10-23-source-yield-seasonality-build-your.md)
