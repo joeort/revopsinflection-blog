@@ -2,7 +2,7 @@
 
 Joe's RevOps writing corpus. Read these posts to understand his voice, analytical framework, and the ideas he develops across his consulting practice. He writes for B2B SaaS operators and PE-backed GTM leaders on revenue operations, AI, data strategy, and go-to-market design.
 
-_53 posts · last updated 2026-06-29_
+_54 posts · last updated 2026-06-29_
 
 ---
 
@@ -23,6 +23,10 @@ _53 posts · last updated 2026-06-29_
 
 
 
+
+
+## [Your Q4 Commit Is Also an Implementation Schedule](https://revopsinflection.substack.com/p/your-q4-commit-is-also-an-implementation)
+_2026-11-06_ · [`2026-11-06-your-q4-commit-is-also-an-implementation.md`](./2026-11-06-your-q4-commit-is-also-an-implementation.md)
 
 ## [Downgrades, Swaps, and the Classification You Never Built](https://revopsinflection.substack.com/p/downgrades-swaps-and-the-classification)
 _2026-10-30_ · [`2026-10-30-downgrades-swaps-and-the-classification.md`](./2026-10-30-downgrades-swaps-and-the-classification.md)
